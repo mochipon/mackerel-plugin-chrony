@@ -12,7 +12,7 @@ Inspired by [telegraf chrony Input Plugin](https://github.com/influxdata/telegra
 ## Synopsis
 
 ```shell
-mackerel-plugin-chrony [-c <path to chrony>]
+mackerel-plugin-chrony [-command <path to chrony>]
 ```
 
 ```shell
